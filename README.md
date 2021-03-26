@@ -13,3 +13,7 @@ This documentation is distributed WITHOUT ANY EXPRESS OR IMPLIED
 WARRANTY, INCLUDING OF MERCHANTABILITY, SATISFACTORY QUALITY
 AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-P v2
 for applicable conditions.
+
+All documentation is licensed under the Creative Commons Attribution 4.0 International License.
+
+LTSpice circuit models are licensed under the MIT license.
