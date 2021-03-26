@@ -18,4 +18,4 @@ Source files developed in KiCad 5.0.2.
 
 All documentation is licensed under the Creative Commons Attribution 4.0 International License.
 
-LTSpice circuit models are licensed under the MIT license.
+LTSpice circuit models (*.asc) are licensed under the MIT license.
