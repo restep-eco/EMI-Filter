@@ -15,6 +15,7 @@ AND FITNESS FOR A PARTICULAR PURPOSE. Please see the CERN-OHL-P v2
 for applicable conditions.
 
 Source files developed in KiCad 5.0.2.
+Custom libraries and footprints are provided in the source files .zip.
 
 All documentation is licensed under the Creative Commons Attribution 4.0 International License.
 
