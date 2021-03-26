@@ -3,7 +3,7 @@ RESTEP EMI FILTER
 
 EMI Filter for the 24V Farmbot vacuum pump
 
-Initial release (Rev.X1) 3/13/21
+Initial release (Rev.X1) 3/13/21: This revision is a prototype release. It is not fully tested or qualified.
 
 Copyright RESTEP 2021.
 This source describes Open Hardware and is licensed under the CERN-OHL-P v2
